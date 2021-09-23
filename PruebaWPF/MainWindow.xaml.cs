@@ -15,7 +15,7 @@ namespace PruebaWPF
 
         private void Button_Click(object sender, RoutedEventArgs e)
         {
-            MensajeTextBlock.Text = "Hola " + NombreTextBox.Text;
+            MensajeTextBlock.Text = "Hola " + NombreTextBox.Text + " !";
 
             MensajeTextBlock.Foreground = Brushes.Aqua;
         }
