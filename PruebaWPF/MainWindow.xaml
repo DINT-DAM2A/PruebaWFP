@@ -5,7 +5,7 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:PruebaWPF"
         mc:Ignorable="d"
-        Title="Hola Mundo" Height="450" Width="800">
+        Title="Hola Mundo" Height="450" Width="800" Icon="32.ico">
     <Grid>
         <TextBlock x:Name="MensajeTextBlock" HorizontalAlignment="Left" Margin="195,79,0,0" TextWrapping="Wrap" Text="Hola Mundo!" VerticalAlignment="Top" FontWeight="Bold" FontSize="60" Foreground="#FF79B448" >
             <TextBlock.Background>
